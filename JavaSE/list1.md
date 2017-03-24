@@ -48,7 +48,7 @@
 |out|[aʊt]|输出||
 |tab|||`abbr` table|
 |enter||||
-|class||类||
+|class|[klɑːs]|类||
 |code||||
 |VM|||`abbr` Virtual Mathine|
 |once||||
