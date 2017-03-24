@@ -36,7 +36,7 @@
 |relational|rɪˈleɪʃn/|adj. 有关系的, 亲属的||
 |logical| ˈlɒdʒɪkl|adj.逻辑(上)的，符合逻辑的；合乎常理的||
 |bitwise||||
-|positive||||
+|positive||||               
 |negative||||
 |assignment||||
 |conditional||||
