@@ -45,7 +45,7 @@
 |main|[meɪn]|adj. 主要的，最重要的||
 |string|[strɪŋ]|n.字符串||
 |args|['ɑːgjʊm(ə)nts]|n. 参数|`abbr` arguments|
-|out|[aʊt]|||
+|out|[aʊt]|输出||
 |tab|||`abbr` table|
 |enter||||
 |class||||
