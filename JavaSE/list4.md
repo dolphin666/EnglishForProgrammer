@@ -4,7 +4,7 @@
 
 |单词|音标|释义|备注|
 |---|---|---|---|
-|object|123|||
+|object||||
 |oriented||||
 |programming||||
 |class||||
@@ -12,10 +12,10 @@
 |field||||
 |method||||
 |formal||||
-|parameter||||
-|actual||||
-|constructor||||
-|inheritance||||
+|parameter|[pə'ræmɪtə]|参数||
+|actual|['æktʃʊəl; -tjʊəl]|真实的||
+|constructor|[kənˈstrʌktə(r)]|构造器||
+|inheritance||继承||
 |sub||||
 |super||||
 |polymorphism||||
