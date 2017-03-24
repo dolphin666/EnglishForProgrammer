@@ -21,11 +21,11 @@
 |goto*||||
 |package||||
 |synchronized||||
-|boolean||||
-|do||||
-|if||||
-|private||||
-|this||||
+|boolean|['bʊlɪən]|布尔数学体系的||
+|do|[duː]|做；干；||
+|if|[ɪf]|如果||
+|private|['praɪvət]|私有的||
+|this|[ðɪs]|这个、当前||
 |break||||
 |double||||
 |implements||||
@@ -41,10 +41,10 @@
 |instanceof||||
 |return||||
 |transient||||
-|catch||||
-|extends||||
-|int||||
-|short||||
+|catch|[kætʃ]|捕捉||
+|extends|[ɪk'stendz; ek-]|继承、扩展||
+|int|[ɪn'tɪəːrɪə(r)]|整数|整型|
+|short|[ʃɔːt]|短的|短整型|
 |try||||
 |char||||
 |final||||
