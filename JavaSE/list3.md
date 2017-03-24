@@ -59,5 +59,5 @@
 |const*||||
 |float||||
 |native||||
-|super||||
-|while||||     
+|super||||     
+|while||||        
