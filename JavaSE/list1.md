@@ -41,11 +41,11 @@
 |version||||
 |documentation|||doc|
 |hello||||
-|world||||
-|main||||
-|string||||
-|args|||`abbr` arguments|
-|out||||
+|world|[wɜːld]|n. 世界||  
+|main|[meɪn]|adj. 主要的，最重要的||
+|string|[strɪŋ]|n.字符串||
+|args|['ɑːgjʊm(ə)nts]|n. 参数|`abbr` arguments|
+|out|[aʊt]|||
 |tab|||`abbr` table|
 |enter||||
 |class||||
