@@ -16,12 +16,12 @@
 |actual|['æktʃʊəl; -tjʊəl]|真实的||
 |constructor|[kənˈstrʌktə(r)]|构造器||
 |inheritance||继承||
-|sub||||
-|super||||
-|polymorphism||||
-|overload||||
-|override||||
-|overwrite||||
+|sub|[sʌb]|替补队员||
+|super|['suːpə; 'sjuː-]|极好的||
+|polymorphism|[,pɒlɪ'mɔːfɪz(ə)m]|多态性||
+|overload|[əʊvə'ləʊd]|超载||
+|override|[əʊvə'raɪd]|推翻||
+|overwrite|[əʊvə'raɪt]|重写||
 |||||
 |||||
 |||||
