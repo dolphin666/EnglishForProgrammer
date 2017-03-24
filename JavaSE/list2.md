@@ -42,7 +42,7 @@
 |conditional|kən'dɪʃ(ə)n(ə)l| 有条件的；假定的. 条件句|有条件的|
 |misc|mɪsk|. 混杂的；|杂项|
 |cast|kɑːst|抛；铸件， 铸型||
-|instance|ɪnst(ə)ns| 实例；情况；建议|实例|
+|instance|ɪnst(ə)ns| 实例 情况；建议|实例|
 |new|nju|新的|新建|
 |enhanced|ɪn'hɑːnst|加强的||
 |loop|luːp|环；圈；|循环|
