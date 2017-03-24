@@ -16,7 +16,7 @@
 |integer||||
 |character||||
 |auto||||
-|boxing|['bɒksɪŋ]|拳击；装箱；围模；||
+|boxing|['bɒksɪŋ]|拳击；装箱；围模||
 |big|[bɪg]| 大的；重要的；量大的||
 |decimal|['desɪm(ə)l]|小数的；十进位的||
 |unicode|['juːnɪˌkəʊd]|统一的字符编码标准||
