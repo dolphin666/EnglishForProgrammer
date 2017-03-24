@@ -4,7 +4,7 @@
 
 |单词|音标|释义|备注|
 |---|---|---|---|
-|object|123|||
+|object|['ɒbdʒɪkt; -dʒekt]|目标，||
 |oriented||||
 |programming||||
 |class||||

@@ -128,7 +128,7 @@
 |material||||
 |download||||
 |latest||||
-|currently||||
+|currently||
 |create||||
 |add||||
 |component||||
@@ -136,7 +136,7 @@
 |device||||
 |initial||||
 |scale||||
-|container||||
+|container||
 |fluid||||
 |meta||||
 |charset||||
