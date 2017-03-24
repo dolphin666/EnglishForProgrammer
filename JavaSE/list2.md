@@ -27,7 +27,7 @@
 |carriage|['kærɪdʒ]|托架 运输||
 |return|[rɪ'tɜːn] |传回 返回||
 |form||||
-|feed||||
+|feed||||  
 |single||||
 |quote||||
 |backslash||||
@@ -43,6 +43,6 @@
 |misc|mɪsk|. 混杂的；|杂项|
 |cast|kɑːst|抛；铸件， 铸型||
 |instance|ɪnst(ə)ns| 实例 情况；建议|实例|
-|new|nju|新的|新建|
+|new|nju|新的|新建|    
 |enhanced|ɪn'hɑːnst|加强的||
 |loop|luːp|环；圈；|循环|
