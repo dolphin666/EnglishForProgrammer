@@ -22,10 +22,10 @@
 |unicode|['juːnɪˌkəʊd]|统一的字符编码标准||
 |escape|[ɪ'skeɪp; e-]|逃避，避开，避免；||
 |sequence|['siːkw(ə)ns]|序列 顺序||
-|backspace||||
-|line||||
-|carriage||||
-|return||||
+|backspace|['bækspeɪs]|退格 查看上一级||
+|line|[laɪn]|线条 列||
+|carriage|['kærɪdʒ]|托架 运输||
+|return|[rɪ'tɜːn] |传回 返回||
 |form||||
 |feed||||
 |single||||
