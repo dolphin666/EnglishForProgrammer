@@ -40,7 +40,7 @@
 |documentation|documentation|文档|doc|
 |hello|[hə'ləʊ; he-] |喂；哈罗||
 |world|[wɜːld] |世界||
-|main|[meɪn] |主要 ||
+|main|[meɪn] |主要的 ||
 |string||||
 |args|||`abbr` arguments|
 |out||||
