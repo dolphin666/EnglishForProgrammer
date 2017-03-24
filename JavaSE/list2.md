@@ -27,7 +27,7 @@
 |carriage|['kærɪdʒ]|托架 运输||
 |return|[rɪ'tɜːn] |传回 返回||
 |form||||
-|feed||||
+|feed||||     
 |single||||
 |quote||||
 |backslash||||
