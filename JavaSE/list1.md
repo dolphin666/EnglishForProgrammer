@@ -17,17 +17,17 @@
 |publish||||
 |enterprise||||
 |micro||||
-|Android||||
-|iOs||||
-|write||||
-|once||||
-|run||||
-|anywhere||||
-|application||||
-|-let|||`suffix`|
-|applet||||
-|JDK|||`abbr` Java Development Kit|
-|JRE|||`abbr` Java Run Environment|
+|Android|['ændrɔɪd]|n.安卓操作系统||
+|iOs||iphone操作系统|`abbr` iphone operation system|
+|write|[raɪt]|v.写印，(从计算机存储器)送出或印出数据||
+|once|[wʌns]|n.一次||
+|run|[rʌn]|v.运行||
+|anywhere|['enɪweə]|adv.在任何操作系统||
+|application|[ˌæplɪ'keɪʃ(ə)n]|n.应用程序||
+|-let||逻辑设备表 (logical equipment table)|`suffix`|
+|applet|['æplɪt]|n.小应用程序||
+|JDK||Java开发套件|`abbr` Java Development Kit|
+|JRE||Java运行环境|`abbr` Java Run Environment|
 |JAVA_HOME||||
 |your||||
 |path||||
