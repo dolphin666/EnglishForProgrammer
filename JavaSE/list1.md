@@ -43,12 +43,12 @@
 |world||||
 |main|[meɪn]|adj. 主要的，最重要的||
 |string|[strɪŋ]|字符串||
-|args||n. （函数的）自变量,参数|`abbr` arguments|
+|args||n. （函数的）自变量,参数|`abbr` arguments ['ɑːgjʊm(ə)nts]|
 |out|[aʊt]|出口，输出||
-|tab|||`abbr` table|
-|enter||||
-|class||||
-|code||||
+|tab|[tæb]|横向制表符|`abbr` table|
+|enter|['entə]|n.输入；回车||
+|class|[klɑːs]|类||
+|code|[kəʊd]|代码||
 |VM|||`abbr` Virtual Mathine|
-|once||||
-|anywhere||||
+|once|[wʌns]|n. 一次|Write once 写一次|
+|anywhere|['enɪweə]|任何地方|run anywhere 运行在任何地方|
