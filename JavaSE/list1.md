@@ -1,12 +1,12 @@
 # English for programmer
 ## Java SE 
 ### List 1 intro
-~~  
+
 |单词|音标|释义|备注|
 |---|---|---|---|
-|intro|||`abbr` introduce|
-|Java|/java/|Java 语言|-|
-|SE|||`abbr` Standard Edition|
+|intro| ['ɪntrəʊ]| 介绍；简介|`abbr` introduce|
+|Java|['dʒɑːvə]/爪哇岛（位于印尼）；Sun公司推出的一种应用程序开发语言/|Java 语言|-|
+|SE|[,ɛs'i]|标准版|`abbr` Standard Edition|
 |API|||`abbr` Application Programming Interface|
 |Effective||||
 |nGL|||`abbr` nth Generation of Language|
@@ -40,14 +40,14 @@
 |version||||
 |documentation|||doc|
 |hello||||
-|world||||
-|main||||
-|string||||
-|args|||`abbr` arguments|
-|out||||
+|world|[wɜːld]|n. 世界||  
+|main|[meɪn]|adj. 主要的，最重要的||
+|string|[strɪŋ]|n.字符串||
+|args|['ɑːgjʊm(ə)nts]|n. 参数|`abbr` arguments|
+|out|[aʊt]|输出||
 |tab|||`abbr` table|
 |enter||||
-|class||||
+|class|[klɑːs]|类||
 |code||||
 |VM|||`abbr` Virtual Mathine|
 |once||||
