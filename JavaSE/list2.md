@@ -44,5 +44,5 @@
 |cast|kɑːst|抛；铸件， 铸型||
 |instance|ɪnst(ə)ns| 实例；情况；建议|实例|
 |new|nju|新的|新建|
-|enhanced|ɪn'hɑːnst|加强的；增大的||
+|enhanced|ɪn'hɑːnst|加强的||
 |loop|luːp|环；圈；|循环|
