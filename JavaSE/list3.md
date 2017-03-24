@@ -23,7 +23,7 @@
 |synchronized||||
 |boolean||||
 |do||||
-|if||||
+|if|||| 
 |private||||
 |this||||
 |break|[breɪk]|打破||
@@ -33,7 +33,7 @@
 |throw|[θrəʊ]|抛||
 |byte|[baɪt]|字节||
 |else|[els]|其他||
-|import|[ɪm'pɔːt; 'ɪm-]|输入||
+|import|[ɪm'pɔːt; 'ɪm-]|输入|
 |public|['pʌblɪk]|公用的||
 |throws|[θrəʊz]|抛||
 |case|[keɪs]|实例||
@@ -60,4 +60,4 @@
 |float||||
 |native||||
 |super||||     
-|while||||        
+|while||||     
