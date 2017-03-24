@@ -11,7 +11,7 @@
 
 |单词|音标|释义|备注|
 |---|---|---|---|
-|abstract||||
+|abstract|||
 |continue||||
 |for||||
 |new||||
@@ -26,21 +26,21 @@
 |if||||
 |private||||
 |this||||
-|break||||
-|double||||
-|implements||||
-|protected||||
-|throw||||
-|byte||||
-|else||||
-|import||||
-|public||||
-|throws||||
-|case||||
-|enum****||||
-|instanceof||||
-|return||||
-|transient||||
+|break|[breɪk]|打破||
+|double|['dʌb(ə)l]|两倍||
+|implements|['ɪmplɪm(ə)nts]|工具||
+|protected|[prə'tektɪd]|受保护的||
+|throw|[θrəʊ]|抛||
+|byte|[baɪt]|字节||
+|else|[els]|其他||
+|import|[ɪm'pɔːt; 'ɪm-]|输入||
+|public|['pʌblɪk]|公用的||
+|throws|[θrəʊz]|抛||
+|case|[keɪs]|实例||
+|enum****|['enəm]|枚举||
+|instanceof|['ɪnst(ə)ns]|运算符||
+|return|[rɪ'tɜːn]|返回||
+|transient|['trænzɪənt]|短暂的||
 |catch||||
 |extends||||
 |int||||
