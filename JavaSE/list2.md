@@ -33,7 +33,7 @@
 |backslash||||
 |arithmetic||||
 |operator||||
-|relational||||
+|relational||||     
 |logical||||
 |bitwise|bɪt/waɪz|按位||
 |positive|pɒzɪtɪv|积极的；[数] 正的||
