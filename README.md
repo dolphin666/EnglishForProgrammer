@@ -19,7 +19,7 @@ English for programmer.
     
 | 序号   | 姓名   |      |Github|
 | ---- | ---- | ---- |---|
-| 1    | 李宣禹  | A    |lilovejia|
+| 1    | 李宣禹  | A    |XuanyuLi|
 | 2    | 曹云丛  | B    |caoyuncong|
 | 3    | 龚涛   | C    |intro2556|
 | 4    | 安璐   | B    |secret1123|
