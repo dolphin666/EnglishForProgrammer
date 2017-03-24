@@ -18,7 +18,7 @@
 |switch|[swɪtʃ]|开关;转换，转换器;|switch 语句由一个控制表达式和多个case标签组成。|
 |assert***|[əˈsɜ:t]|. 维护，坚持；||
 |default|[dɪ'fɔːlt; 'diːfɔːlt]|默认的||
-|goto*|/'ɡo,tʊ/|转到||
+|goto*|/'ɡo,tʊ/|转到||     
 |package|['pækɪdʒ]|包||
 |synchronized|['sɪŋkrənaɪzd]|同步||
 |boolean||||
