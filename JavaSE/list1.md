@@ -5,9 +5,9 @@
 
 |单词|音标|释义|备注|
 |---|---|---|---|
-|intro|||`abbr` introduce|
-|Java|/java/|Java 语言|-|
-|SE|||`abbr` Standard Edition|
+|intro| ['ɪntrəʊ]| 介绍；简介|`abbr` introduce|
+|Java|['dʒɑːvə]/爪哇岛（位于印尼）；Sun公司推出的一种应用程序开发语言/|Java 语言|-|
+|SE|[,ɛs'i]|标准版|`abbr` Standard Edition|
 |API|||`abbr` Application Programming Interface|
 |Effective||||
 |nGL|||`abbr` nth Generation of Language|
