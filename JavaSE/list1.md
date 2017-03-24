@@ -35,7 +35,7 @@
 |jar|[dʒɑː]|跳越位址暂存器 (jump address register)||
 |tool|[tuːl]|测试导向的操作员语言 (test oriented operator language)||
 |CMD|||`abbr` Command|
-|compile|[kəm'paɪl] |编译(计算机程序等)；把(面向问题语言)转换成面向计算机的语言(使用编译程序将一个计算机程序自高级语言翻译成另一种语言)||
+|compile|[kəm'paɪl] |工具||
 |version|['vɜːʃ(ə)n]|版本||
 |documentation|documentation|文档|doc|
 |hello|[hə'ləʊ; he-] |喂；哈罗||
