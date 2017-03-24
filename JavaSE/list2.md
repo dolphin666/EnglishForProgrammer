@@ -33,7 +33,7 @@
 |backslash|ˈbækslæʃ| n. 反斜线符号()||
 |arithmetic|əˈrɪθmətɪk|n.算术，算法；adj.算术学的，算术的||
 |operator|ˈɒpəreɪtə(r)|n.（机器、设备等的）操作员；电话接线员||
-|relational|rɪˈleɪʃn/|adj. 有关系的, 亲属的||     
+|relational|rɪˈleɪʃn/|adj. 有关系的, 亲属的||        
 |logical| ˈlɒdʒɪkl|adj.逻辑(上)的，符合逻辑的；合乎常理的||
 |bitwise||||
 |positive||||               
