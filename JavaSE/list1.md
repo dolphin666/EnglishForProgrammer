@@ -41,10 +41,10 @@
 |documentation|||doc|
 |hello||||
 |world||||
-|main||||
-|string||||
-|args|||`abbr` arguments|
-|out||||
+|main|[meɪn]|adj. 主要的，最重要的||
+|string|[strɪŋ]|字符串||
+|args||n. （函数的）自变量,参数|`abbr` arguments|
+|out|[aʊt]|出口，输出||
 |tab|||`abbr` table|
 |enter||||
 |class||||
