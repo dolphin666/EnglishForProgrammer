@@ -24,7 +24,7 @@
 |sequence||||
 |backspace||||
 |line||||
-|carriage||||
+|carriage|||| 
 |return||||
 |form|fɔ:m| n.形式，形状，表格；v.形成，组成，建立||
 |feed|fi:d| vt.喂（养），饲（养）；吃饲料；（with）向...提供；vi. 吃东西；流入||
