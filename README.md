@@ -34,4 +34,12 @@ English for programmer.
 | 13   | 齐琪   | F    |qq666888|
 | 14   | 任纹乾  | F    |renweiqian|
 | 15   | 江振亚  | F    |JZY11|
-| 16   | 吴建东   | C    |wujiandong66|     
+| 16   | 吴建东   | C    |wujiandong66|    
+ 
+ demo fix
+ 
+ 
+ -------------------------------------------------------------- master
+                 \                              \-----------demo_fix2
+                  \---------------------------demo_fix
+                                    
