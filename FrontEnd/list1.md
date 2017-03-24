@@ -4,9 +4,9 @@
 
 |单词|音标|释义|备注|
 |---|---|---|---|
-|hyper111||||
-|text222||||
-|markup333||||
+|hyper||||
+|text||||
+|markup||||
 |language||||
 |school||||
 |head||||
