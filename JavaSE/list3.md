@@ -51,13 +51,13 @@
 |interface||||
 |static||||
 |void||||
-|class||||
+|class|||| 
 |finally||||
 |long||||
-|strictfp**||||
-|volatile||||
+|strictfp**||||   
+|volatile|||| 
 |const*||||
 |float||||
 |native||||
-|super||||     
+|super||||  
 |while||||     
