@@ -34,7 +34,7 @@
 |arithmetic||||
 |operator||||
 |relational||||     
-|logical||||
+|logical||||    
 |bitwise|bɪt/waɪz|按位||
 |positive|pɒzɪtɪv|积极的；[数] 正的||
 |negative|negətɪv| [数] 负的；消极的||
