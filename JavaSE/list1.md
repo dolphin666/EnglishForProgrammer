@@ -15,8 +15,8 @@
 |Green Project||绿色工程||
 |publish|['pʌblɪʃ]|发布 公布 发表||
 |enterprise|['entəpraɪz]|企业||
-|micro||||
-|Android||||
+|micro|['maɪkrəʊ]|微||
+|Android|['ændrɔɪd]|机器人；安卓操作系统||
 |iOs||||
 |write||||
 |once||||
