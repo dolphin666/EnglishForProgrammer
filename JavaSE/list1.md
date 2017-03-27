@@ -45,8 +45,8 @@
 |args|||`abbr` arguments|
 |out||||是arguments的缩写，表示参数
 |tab|[tæb]|标记 栏标|`abbr` table|
-|enter||||
-|class||||
+|enter|['entə]|输入||
+|class|[klɑːs]|类||
 |code||||
 |VM|||`abbr` Virtual Mathine|
 |once||||
