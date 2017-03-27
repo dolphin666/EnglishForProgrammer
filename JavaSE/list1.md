@@ -41,7 +41,7 @@
 |hello|[hə'ləʊ; he-] |喂；哈罗||
 |world|[wɜːld] |世界||
 |main|[meɪn] |主要的 ||
-|string||||
+|string|[strɪŋ]|字符串||
 |args|||`abbr` arguments|
 |out||||
 |tab|||`abbr` table|
