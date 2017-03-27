@@ -32,15 +32,15 @@
 |your||||
 |path||||
 |CLASSPATH||||
-|lib||||
-|jar||||
-|tool||||
-|CMD|||`abbr` Command|
-|compile||||
-|version||||
-|documentation|||doc|
-|hello||||
-|world||||
+|lib|[lib]|||
+|jar|[dʒɑː]||jump address register|跳越位址暂存器
+|tool|[tuːl]|n. 工具，用具||
+|CMD|[kə'mɑːnd]|命令，指挥；控制|`abbr` Command|
+|compile|[kəm'paɪl]|编译||
+|version|['vɜːʃ(ə)n]|版本||
+|documentation|[dɒkjʊmen'teɪʃ(ə)n]|文档 |doc|
+|hello|[hə'ləʊ]|你好||
+|world|[wɜːld]|n. 世界||
 |main|[meɪn]|adj. 主要的，最重要的||
 |string|[strɪŋ]|字符串||
 |args||n. （函数的）自变量,参数|`abbr` arguments ['ɑːgjʊm(ə)nts]|
