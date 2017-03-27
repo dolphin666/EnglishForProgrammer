@@ -17,7 +17,7 @@
 |enterprise|['entəpraɪz]|企业||
 |micro|['maɪkrəʊ]|微||
 |Android|['ændrɔɪd]|机器人；安卓操作系统||
-|iOs||||
+|iOs|[,aɪ o 'ɛs]|iOS是由苹果公司开发的移动操作系统||
 |write||||
 |once||||
 |run||||
