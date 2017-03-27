@@ -25,8 +25,8 @@
 |application|[ˌæplɪ'keɪʃ(ə)n]|应用程式||
 |-let||逻辑设备表 (logical equipment table)|`suffix`|
 |applet|['æplɪt]|小应用程序||
-|JDK|||`abbr` Java Development Kit|
-|JRE|||`abbr` Java Run Environment|
+|JDK||abbr. Java开发工具包（Java Developer's Kit）|`abbr` Java Development Kit|
+|JRE||abbr. Java运行环境（Java Runtime Environment）|`abbr` Java Run Environment|
 |JAVA_HOME||||
 |your|[jɔː; jʊə]|你的，你们的||
 |path|[pɑːθ]|路径||
