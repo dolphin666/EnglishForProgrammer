@@ -43,8 +43,8 @@
 |main|[meɪn] |主要的 ||
 |string|[strɪŋ]|字符串||
 |args|||`abbr` arguments|
-|out||||
-|tab|||`abbr` table|
+|out||||是arguments的缩写，表示参数
+|tab|[tæb]|标记 栏标|`abbr` table|
 |enter||||
 |class||||
 |code||||
