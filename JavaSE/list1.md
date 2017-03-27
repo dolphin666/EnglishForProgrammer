@@ -21,8 +21,8 @@
 |write|[raɪt]|写(将信息或数据记录到存储媒体上)；写印，(从计算机存储器)送出或印出数据||
 |once|[wʌns] |一次||
 |run|[rʌn]|运行||
-|anywhere||||
-|application||||
+|anywhere|['enɪweə]|任何地点||
+|application|[ˌæplɪ'keɪʃ(ə)n]|应用程式||
 |-let|||`suffix`|
 |applet||||
 |JDK|||`abbr` Java Development Kit|
