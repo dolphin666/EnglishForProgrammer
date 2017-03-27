@@ -14,7 +14,7 @@
 |SUN|||SUN Microsystems|
 |Green Project||绿色工程||
 |publish|['pʌblɪʃ]|发布 公布 发表||
-|enterprise||||
+|enterprise|['entəpraɪz]|企业||
 |micro||||
 |Android||||
 |iOs||||
