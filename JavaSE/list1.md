@@ -49,5 +49,5 @@
 |class|[klɑːs]|类||
 |code|[kəʊd]|代码 ||
 |VM||Virtual Memory 虚拟机|`abbr` Virtual Mathine|
-|once||||
-|anywhere||||
+|once|[wʌns]|一次||
+|anywhere|['enɪweə] |任何地方||
