@@ -23,8 +23,8 @@
 |run|[rʌn]|运行||
 |anywhere|['enɪweə]|任何地点||
 |application|[ˌæplɪ'keɪʃ(ə)n]|应用程式||
-|-let|||`suffix`|
-|applet||||
+|-let||逻辑设备表 (logical equipment table)|`suffix`|
+|applet|['æplɪt]|小应用程序||
 |JDK|||`abbr` Java Development Kit|
 |JRE|||`abbr` Java Run Environment|
 |JAVA_HOME||||
