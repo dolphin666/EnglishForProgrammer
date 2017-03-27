@@ -47,7 +47,7 @@
 |tab|[tæb]|标记 栏标|`abbr` table|
 |enter|['entə]|输入||
 |class|[klɑːs]|类||
-|code||||
-|VM|||`abbr` Virtual Mathine|
+|code|[kəʊd]|代码 ||
+|VM||Virtual Memory 虚拟机|`abbr` Virtual Mathine|
 |once||||
 |anywhere||||
