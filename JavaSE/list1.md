@@ -12,8 +12,8 @@
 |LLL|||`abbr` Low Level Language|
 |HLL|||`abbr` High Level Language|
 |SUN|||SUN Microsystems|
-|Green Project||||
-|publish||||
+|Green Project||绿色工程||
+|publish|['pʌblɪʃ]|发布 公布 发表||
 |enterprise||||
 |micro||||
 |Android||||
@@ -28,7 +28,7 @@
 |JDK|||`abbr` Java Development Kit|
 |JRE|||`abbr` Java Run Environment|
 |JAVA_HOME||||
-|your||||
+|your|[jɔː; jʊə]|你的，你们的||
 |path|[pɑːθ]|路径||
 |CLASSPATH||类路径（一个环境变量）||
 |lib|[lɪb]|线路介面基底 (line interface base)||
