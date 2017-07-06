@@ -2,6 +2,7 @@
 ## Java SE 
 ### List 1 intro
 ~~ 
+
 |单词|音标|释义|备注|
 |---|---|---|---|
 |intro|||`abbr` introduce|
